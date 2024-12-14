@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Toi Derricotte, Haki Madhubuti, and Naomi Long Madgett Interviews Final Cut, 1994 September 29 - 1994 October 1",
+    "description": "Interviews with poets at the 1994 Furious Flower Conference. Featured in this video is Toi Derricotte interviewed by Opal Moore, Haki Madhubuti interviewed by Sonia Sanchez, and Naomi Long Madgett interviewed by Eleanor Traylor. This footage was originally recorded on a MII videocassette.",
+    "language": "en",
+    "slug": "Derricotte-et-al-FFI",
+    "creator": "JMU-AudiAnnotate",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-12-14T19:54:00.217Z",
+    "updated_at": "2024-12-14T19:54:00.217Z"
   }
 }
